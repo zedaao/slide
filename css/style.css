@@ -35,7 +35,7 @@ img {
   overflow: hidden;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
   opacity: 0.8;
-  transform: scale(0.9);
+  transform: scale(0.8);
   transition: 0.4s;
 }
 
